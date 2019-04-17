@@ -1,0 +1,2 @@
+# komponenty
+komponenty wielokrotnego użytku
